@@ -61,7 +61,7 @@
         margin-right: auto;
     }
     .iPhone-header {
-        padding-top: 10vh;
+        padding-top: 5vh;
         margin-left: auto;
         width: 420px;
         object-fit: contain;
@@ -238,9 +238,8 @@
     }
     .iPhone-header {
         margin: 0 auto;
-        width: 70vw;
+        width: 100vw;
         object-fit: contain;
-        padding-left: 70px;
         order: 1;
     }
     .header-logo {
