@@ -92,6 +92,7 @@
         padding-left: 10px;
         text-align: center;
         font-weight: lighter;
+        font-size: 14px;
     }
     .content-photo {
         margin: 0 auto;
@@ -264,7 +265,7 @@
         color: rgb(50, 58, 66);
     }
     .content-p {
-        font-size: 12px;
+        font-size: 10px;
         padding-top: 12px;
         width: 300px;
         padding-left: 10px;
