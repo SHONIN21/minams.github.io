@@ -302,6 +302,7 @@
         width: 220px;
         display: flex;
         padding-top: 12px;
+        padding-left: 45px;
         margin: 0 auto;
     }
     small {
@@ -312,6 +313,7 @@
     .contact {
         padding-top: 18px;
         padding-bottom: 4px;
+        padding-left: 20px;
         text-align: center;
     }
     .right-footer-container {
